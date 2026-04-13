@@ -107,16 +107,17 @@ pip install requests beautifulsoup4 colorama lxml
 
 ```bash
 # Clone the repository
-git clone https://github.com/HackfutSec/ulp-scan-pro.git
+git clone https://github.com/HackfutSec/ulp_scan.git
 
 # Navigate to directory
-cd ulp-scan-pro
+cd ulp_scan
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the tool
-python ulp_scan_pro.py
+python ulpscanner-success_access.py
+python ulp_extractor.exe
 ```
 
 ## 📝 Input Formats
@@ -146,14 +147,16 @@ http:/domain.com:username:password
 ### Basic Usage
 
 ```bash
-python ulp_scan_pro.py
+python ulpscanner-success_access.py
+python ulp_extractor.exe
 ```
 
 ### Step-by-step
 
 1. **Launch the tool**
    ```bash
-   python ulp_scan_pro.py
+   python ulpscanner-success_access.py
+   python ulp_extractor.exe
    ```
 
 2. **Enter your combo file**
