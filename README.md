@@ -327,5 +327,3 @@ You can also add these badges at the top of your README:
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue.svg)](https://t.me/+gsrpvshwGUc5MzI0)
 ```
-
-Ce README est complet, professionnel et visuellement attrayant pour votre GitHub. Il met en valeur toutes les fonctionnalités de votre outil tout en restant clair et organisé.
